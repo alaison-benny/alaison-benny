@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alaison-benny
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +91 9995515559
 
