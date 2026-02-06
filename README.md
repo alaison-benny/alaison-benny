@@ -7,7 +7,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
-Based in **Berlin**, I help businesses navigate the complexities of **GDPR** and the **EU AI Act** while deploying scalable infrastructure on **AWS**.
+## I help businesses navigate the complexities of **GDPR** and the **EU AI Act** while deploying scalable infrastructure on **AWS**.
 
 ## 🌐 European Compliance & AI Engineering
 I bridge the gap between cutting-edge AI development and strict European legal standards. Most developers focus only on the code; I ensure your deployment is ready for the European market from Day 1..
