@@ -51,4 +51,4 @@ Available for: Freelance contracts, Compliance Audits, and End-to-End AI Deploym
 ## 📬 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/alaison-benny-scrum-master)
 - 🌐 [Portfolio/Blog](https://alaisonbennyonline0.wordpress.com/)
-- 📧 [Your Email]
+- 📧 [alaisonbennyonline@gmail.com]
