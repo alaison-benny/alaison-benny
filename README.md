@@ -1,6 +1,12 @@
 # Hi there, I'm Alaison 👋 
 
 ### 🚀 AI Cloud Engineer | EU Compliance Specialist
+---
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
+
 Based in **Berlin**, I help businesses navigate the complexities of **GDPR** and the **EU AI Act** while deploying scalable infrastructure on **AWS**.
 
 🌐 European Compliance & AI Engineering
@@ -36,11 +42,6 @@ Available for: Freelance contracts, Compliance Audits, and End-to-End AI Deploym
 - **Backend:** Python, Node.js
 
 ---
-
-## 📊 6-Month AI Roadmap Progress
-- [x] **Phase 1:** Python Foundations (In Progress)
-- [ ] **Phase 2:** Machine Learning Theory
-- [ ] **Phase 3:** AWS Cloud Specialty
 ...
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
