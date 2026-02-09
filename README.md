@@ -16,7 +16,7 @@ I help AI Startups navigate the **EU AI Act** by automating their MLOps and Infr
 ### Featured Projects
 - [**[ 1-compliant-s3-landing-zonee](https://github.com/alaison-benny/1-compliant-s3-landing-zone.git)**]: This code "make a bucket"; it implements 4 specific compliance requirements of the EU AI Act/GDPR.
 - [**[sagemaker-bias-detection-pipeline](https://github.com/alaison-benny/2-sagemaker-bias-detection-pipeline.git)**]: MLOps pipeline with automated bias detection.
-- [**https://github.com/alaison-benny/3-ai-compliance-report-generator.git**]: EU AI Act Technical Documentation Generator (Annex IV).
+- [**[[sagemaker-bias-detection-pipeline](https://github.com/alaison-benny/2-sagemaker-bias-detection-pipeline.git)](https://github.com/alaison-benny/3-ai-compliance-report-generator.git)**]: EU AI Act Technical Documentation Generator (Annex IV).
 
 
 ### Let's Connect
