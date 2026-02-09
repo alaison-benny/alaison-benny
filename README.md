@@ -13,12 +13,31 @@ I help AI Startups navigate the **EU AI Act** by automating their MLOps and Infr
 - 🛠️ **Tech Stack:** Terraform (IaC), AWS SageMaker, Python, GitHub Actions (CI/CD).
 - ⚖️ **Niche:** EU AI Act Readiness, GDPR-aligned Cloud Architecture, Bias & Fairness Auditing.
 
-### Featured Projects
-🛡️ Compliant S3 Landing Zone A production-ready infrastructure template that implements 4 specific compliance requirements of the EU AI Act and GDPR for secure data storage.
+## 🚀 Featured Projects
 
-⚖️ SageMaker Bias Detection Pipeline An automated MLOps pipeline featuring integrated fairness auditing and "Safety Gates" to detect and mitigate algorithmic bias.
+I specialize in bridging the gap between high-speed AI innovation and rigorous EU regulatory standards. Below are the core pillars of my **ActReady AI** framework.
 
-📋 AI Compliance Report Generator A Python-based automation tool for generating technical documentation required by the EU AI Act Annex IV (Technical Files).
+---
+
+### 🛡️ [**Compliant S3 Landing Zone**](https://github.com/alaison-benny/1-compliant-s3-landing-zone)
+A production-ready infrastructure template designed for secure AI data storage. It implements 4 specific compliance requirements of the **EU AI Act** and **GDPR**, including:
+* **Region Locking:** Data residency enforced within EU borders.
+* **Encryption-at-Rest:** Automated KMS key rotation.
+* **Zero Public Access:** Strict IAM guardrails to prevent data leaks.
+
+### ⚖️ [**SageMaker Bias Detection Pipeline**](https://github.com/alaison-benny/2-sagemaker-bias-detection-pipeline)
+An automated MLOps pipeline that serves as a mandatory "Safety Gate." It features:
+* **Fairness Auditing:** Integrated bias detection using AWS SageMaker Clarify.
+* **Compliance Thresholds:** Automated build-failure triggers if discrimination metrics exceed legal limits.
+* **Audit Lineage:** Complete versioning of fairness reports for regulatory review.
+
+### 📋 [**AI Compliance Report Generator**](https://github.com/alaison-benny/3-ai-compliance-report-generator)
+A Python-based automation tool that eliminates manual paperwork by generating Technical Documentation required by **EU AI Act Annex IV**.
+* **Living Documentation:** Reports update automatically with every model deployment.
+* **Metadata Extraction:** Pulls technical specs directly from AWS infrastructure logs.
+* **Regulatory Mapping:** Formats technical files into the exact structure required by EU auditors.
+
+---
 
 
 ### Let's Connect
