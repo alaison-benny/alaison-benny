@@ -14,7 +14,7 @@ I help AI Startups navigate the **EU AI Act** by automating their MLOps and Infr
 - ⚖️ **Niche:** EU AI Act Readiness, GDPR-aligned Cloud Architecture, Bias & Fairness Auditing.
 
 ### Featured Projects
-- [**Compliant-IaC-Stack**]: Secure, encrypted AWS environment for AI workloads.
+- [**compliant-s3-landing-zone**]: This code "make a bucket"; it implements 4 specific compliance requirements of the EU AI Act/GDPR.
 - [**Fairness-First-Pipeline**]: MLOps pipeline with automated bias detection.
 
 ### Let's Connect
