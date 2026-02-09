@@ -41,6 +41,6 @@ A Python-based automation tool that eliminates manual paperwork by generating Te
 
 
 ### Let's Connect
-- 💼 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/alaisonbenny/))
-- 🌐 Business: **ActReady AI**
-- 📧 [Your Email]
+- **💼 LinkedIn:** [alaisonbenny](https://www.linkedin.com/in/alaisonbenny/)
+- **📧 Email:** [alaisonbennyonline@gmail.com](mailto:alaisonbennyonline@gmail.com)
+- **🌐 Business Name:** ActReady AI
