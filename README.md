@@ -1,51 +1,23 @@
-# Hi there, I'm Alaison 👋 
+# Hi, I'm Alaison (ActReady AI) 👋
 
-### 🚀 AI Cloud Engineer | EU Compliance Specialist
+### Compliance-Led AI Cloud Engineer 🛡️☁️
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
-## I help businesses navigate the complexities of **GDPR** and the **EU AI Act** while deploying scalable infrastructure on **AWS**.
+I help AI Startups navigate the **EU AI Act** by automating their MLOps and Infrastructure.
 
-## 🌐 European Compliance & AI Engineering
-I bridge the gap between cutting-edge AI development and strict European legal standards. Most developers focus only on the code; I ensure your deployment is ready for the European market from Day 1..
+- 🚀 **Vision:** Ensuring AI innovation remains safe, ethical, and legally compliant.
+- 🛠️ **Tech Stack:** Terraform (IaC), AWS SageMaker, Python, GitHub Actions (CI/CD).
+- ⚖️ **Niche:** EU AI Act Readiness, GDPR-aligned Cloud Architecture, Bias & Fairness Auditing.
 
-## 🛠 What I Offer:
+### Featured Projects
+- [**Compliant-IaC-Stack**]: Secure, encrypted AWS environment for AI workloads.
+- [**Fairness-First-Pipeline**]: MLOps pipeline with automated bias detection.
 
-EU AI Act Readiness: Specialized consulting for General Purpose AI and High-Risk AI systems to ensure your product isn't banned or fined in the EU..
-
-
-AI Impact Assessments: Comprehensive documentation and risk analysis required by European clients for a premium, turn-key solution..
-
-
-GDPR-Compliant Cloud Architecture: Designing AWS infrastructures that respect data sovereignty and privacy-by-design..
-
-
-Technical Stack: AWS (SageMaker, Rekognition, Lex), Python, and MLOps..
-
-## 💼 Business & Logistics:
-Legal Identity: Registered Sole Proprietor (Contract-ready).
-
-Payments: Optimized for European clients via SEPA (EUR) transfers to minimize your transaction fees.
-
-
-Available for: Freelance contracts, Compliance Audits, and End-to-End AI Deployments..
-
----
-
-## 🛠️ Tech Stack & Skills
-- **Cloud:** AWS (SageMaker, Bedrock, IAM, Lambda)
-- **AI/ML:** RAG Architectures, Agentic Workflows, MLOps
-- **Compliance:** High-Risk AI Impact Assessments, Data Sovereignty
-- **Backend:** Python, Node.js
-
----
-...
-
-
-## 📬 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/alaison-benny-scrum-master)
-- 🌐 [Portfolio/Blog](https://alaisonbennyonline0.wordpress.com/)
-- 📧 [alaisonbennyonline@gmail.com]
+### Let's Connect
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 🌐 Business: **ActReady AI**
+- 📧 [Your Email]
