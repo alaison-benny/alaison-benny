@@ -1,46 +1,62 @@
-# Hi, I'm Alaison (ActReady AI) 👋
+# Hi there, I'm Alaison Benny 👋 
+### MLOps Engineer | Platform Engineering Lead | DevOps Expert
 
-### Compliance-Led AI Cloud Engineer 🛡️☁️
+I am a passionate **MLOps & Platform Engineering professional** with over 4 years of experience in architecting and automating high-impact AI/ML infrastructure for global giants like **Kone, Nike, and Woolworths**. I specialize in bridging the gap between Data Science and Production using **GitOps, Kubernetes, and Infrastructure as Code**.
+
 ---
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
----
-
-I help AI Startups navigate the **EU AI Act** by automating their MLOps and Infrastructure.
-
-- 🚀 **Vision:** Ensuring AI innovation remains safe, ethical, and legally compliant.
-- 🛠️ **Tech Stack:** Terraform (IaC), AWS SageMaker, Python, GitHub Actions (CI/CD).
-- ⚖️ **Niche:** EU AI Act Readiness, GDPR-aligned Cloud Architecture, Bias & Fairness Auditing.
-
-## 🚀 Featured Projects
-
-I specialize in bridging the gap between high-speed AI innovation and rigorous EU regulatory standards. Below are the core pillars of my **ActReady AI** framework.
 
 ---
 
-### 🛡️ [**Compliant S3 Landing Zone**](https://github.com/alaison-benny/1-compliant-s3-landing-zone)
-A production-ready infrastructure template designed for secure AI data storage. It implements 4 specific compliance requirements of the **EU AI Act** and **GDPR**, including:
-* **Region Locking:** Data residency enforced within EU borders.
-* **Encryption-at-Rest:** Automated KMS key rotation.
-* **Zero Public Access:** Strict IAM guardrails to prevent data leaks.
-
-### ⚖️ [**SageMaker Bias Detection Pipeline**](https://github.com/alaison-benny/2-sagemaker-bias-detection-pipeline)
-An automated MLOps pipeline that serves as a mandatory "Safety Gate." It features:
-* **Fairness Auditing:** Integrated bias detection using AWS SageMaker Clarify.
-* **Compliance Thresholds:** Automated build-failure triggers if discrimination metrics exceed legal limits.
-* **Audit Lineage:** Complete versioning of fairness reports for regulatory review.
-
-### 📋 [**AI Compliance Report Generator**](https://github.com/alaison-benny/3-ai-compliance-report-generator)
-A Python-based automation tool that eliminates manual paperwork by generating Technical Documentation required by **EU AI Act Annex IV**.
-* **Living Documentation:** Reports update automatically with every model deployment.
-* **Metadata Extraction:** Pulls technical specs directly from AWS infrastructure logs.
-* **Regulatory Mapping:** Formats technical files into the exact structure required by EU auditors.
+### 🚀 What I Do
+- **MLOps Platforms:** Building end-to-end automated retraining pipelines and model serving layers.
+- **Cloud Infrastructure:** Architecting scalable, high-availability environments on **AWS & GCP**.
+- **DevOps & GitOps:** Implementing seamless CI/CD workflows and automated infrastructure provisioning.
+- **Observability:** Ensuring system health and model performance through real-time monitoring and drift detection.
 
 ---
 
+### 🛠️ Tech Stack & Tools
 
-### Let's Connect
-- **💼 LinkedIn:** [alaisonbenny](https://www.linkedin.com/in/alaisonbenny/)
-- **📧 Email:** [alaisonbennyonline@gmail.com](mailto:alaisonbennyonline@gmail.com)
-- **🌐 Business Name:** ActReady AI
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **MLOps** | MLflow, Vertex AI, Kubeflow, Evidently AI, Feature Stores (Feast) |
+| **Orchestration** | Kubernetes (EKS, GKE), Docker, Argo Workflows |
+| **Infrastructure (IaC)** | Terraform, AWS CloudFormation, Ansible |
+| **CI/CD & GitOps** | ArgoCD, GitHub Actions, Jenkins |
+| **Cloud Platforms** | Amazon Web Services (AWS), Google Cloud Platform (GCP) |
+| **Monitoring** | Prometheus, Grafana, ELK Stack |
+| **Languages** | Python (FastAPI, Flask, Pydantic), Bash Scripting, YAML |
+
+---
+
+### 🌟 Featured Projects
+
+#### 🤖 [Automated ML Retraining System with GitOps](https://github.com/alaison-benny/mlops-argo-retraining-system)
+Implemented a self-healing ML pipeline using **ArgoCD** and **Argo Workflows** to automate retraining upon data changes.
+
+#### 🚢 [End-to-End MLOps Platform on Kubernetes](https://github.com/alaison-benny/End-to-end-mlops-kubernetes)
+Architected a production-ready MLOps platform for model versioning and scaling using **MLflow** and **EKS**.
+
+#### ⚡ [Scalable Sentiment Analysis API](https://github.com/alaison-benny/sentiments-api-project)
+Built a high-performance serving layer using **FastAPI** and **Docker**, optimizing for low-latency inference.
+
+---
+
+### 📈 GitHub Stats
+![Alaison's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaison-benny&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaison-benny&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [alaison-benny-online](https://www.linkedin.com/in/alaison-benny-online/)
+- **Email:** [alaisonebnnyonline@gmail.com](mailto:alaisonebnnyonline@gmail.com)
+
+---
+*"Turning complex ML models into scalable production-grade services."*
