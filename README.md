@@ -42,10 +42,28 @@ Built a high-performance serving layer using **FastAPI** and **Docker**, optimiz
 
 ---
 
-### 📈 GitHub Stats
-![Alaison's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaison-benny&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaison-benny&layout=compact&theme=radical)
 
+---
+
+### 🌐 Ecosystem & Tools (Core Expertise)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20Kubeflow-blueviolet?style=for-the-badge&logo=probot" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Infrastructure-Terraform%20%7C%20Ansible-623CE4?style=for-the-badge&logo=terraform" />
+  <br>
+  <img src="https://img.shields.io/badge/Container-Docker%20%7C%20Kubernetes-2496ED?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/GitOps-ArgoCD%20%7C%20GitHub%20Actions-FF5733?style=for-the-badge&logo=argocd" />
+  <img src="https://img.shields.io/badge/Observability-Prometheus%20%7C%20Grafana-F46800?style=for-the-badge&logo=grafana" />
+</p>
+
+---
+
+### 📊 Practical Experience Highlights
+- 🏗️ **Architected** multi-cloud ML infrastructure for 1000+ global retail locations.
+- ⚙️ **Automated** production-grade pipelines reducing manual intervention by 90%.
+- 🚀 **Optimized** model inference latency by 30% through advanced containerization.
 ---
 
 ### 📫 Connect with Me
