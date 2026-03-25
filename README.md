@@ -5,6 +5,21 @@ I am a passionate **MLOps & Platform Engineering professional** with over 4 year
 
 ---
 
+### 🌐 Ecosystem & Tools (Core Expertise)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20Kubeflow-blueviolet?style=for-the-badge&logo=probot" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Infrastructure-Terraform%20%7C%20Ansible-623CE4?style=for-the-badge&logo=terraform" />
+  <br>
+  <img src="https://img.shields.io/badge/Container-Docker%20%7C%20Kubernetes-2496ED?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/GitOps-ArgoCD%20%7C%20GitHub%20Actions-FF5733?style=for-the-badge&logo=argocd" />
+  <img src="https://img.shields.io/badge/Observability-Prometheus%20%7C%20Grafana-F46800?style=for-the-badge&logo=grafana" />
+</p>
+
+---
+
+
 ### 🚀 What I Do
 - **MLOps Platforms:** Building end-to-end automated retraining pipelines and model serving layers.
 - **Cloud Infrastructure:** Architecting scalable, high-availability environments on **AWS & GCP**.
@@ -41,20 +56,6 @@ Built a high-performance serving layer using **FastAPI** and **Docker**, optimiz
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaison-benny&layout=compact&theme=radical)
-
----
-
-### 🌐 Ecosystem & Tools (Core Expertise)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20Kubeflow-blueviolet?style=for-the-badge&logo=probot" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Infrastructure-Terraform%20%7C%20Ansible-623CE4?style=for-the-badge&logo=terraform" />
-  <br>
-  <img src="https://img.shields.io/badge/Container-Docker%20%7C%20Kubernetes-2496ED?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/GitOps-ArgoCD%20%7C%20GitHub%20Actions-FF5733?style=for-the-badge&logo=argocd" />
-  <img src="https://img.shields.io/badge/Observability-Prometheus%20%7C%20Grafana-F46800?style=for-the-badge&logo=grafana" />
-</p>
 
 ---
 
