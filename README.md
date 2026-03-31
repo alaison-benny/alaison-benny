@@ -1,8 +1,7 @@
 # Hi there, I'm Alaison Benny 👋 
-### MLOps Engineer | Platform Engineering Lead | DevOps Expert
+### DevOps Engineer
 
-I am a passionate **MLOps & Platform Engineering professional** with over 4 years of experience in architecting and automating high-impact AI/ML infrastructure for global giants like **Kone, Nike, and Woolworths**. I specialize in bridging the gap between Data Science and Production using **GitOps, Kubernetes, and Infrastructure as Code**.
-
+DevOps Engineer with 4 years of experience designing and managing production-grade cloud platforms for global enterprise clients including Woolworths, Nike, and Kone. I specialize in Kubernetes (EKS), Terraform, Helm, GitOps (ArgoCD), CI/CD automation, and full-stack observability to deliver scalable, resilient, and automated systems.
 ---
 
 ### 🌐 Ecosystem & Tools (Core Expertise)
@@ -21,18 +20,19 @@ I am a passionate **MLOps & Platform Engineering professional** with over 4 year
 
 
 ### 🚀 What I Do
-- **MLOps Platforms:** Building end-to-end automated retraining pipelines and model serving layers.
-- **Cloud Infrastructure:** Architecting scalable, high-availability environments on **AWS & GCP**.
-- **DevOps & GitOps:** Implementing seamless CI/CD workflows and automated infrastructure provisioning.
-- **Observability:** Ensuring system health and model performance through real-time monitoring and drift detection.
-
+Cloud & Infrastructure: AWS (EKS, EC2, S3, VPC, ALB), Multi-AZ Deployment, Auto Scaling
+Containerization & Orchestration: Kubernetes, Docker, Helm, ArgoCD (GitOps)
+CI/CD & Automation: GitHub Actions, Jenkins, Terraform, Infrastructure as Code (IaC)
+Monitoring & Observability: Prometheus, Grafana, ELK Stack
+Event-Driven Workflows: Argo Workflows, Argo Events
+Programming & Scripting: Python, Bash
+Agile & DevOps Practices: Scrum Master, Agile Delivery, Release Management
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **MLOps** | MLflow, Vertex AI, Kubeflow, Evidently AI, Feature Stores (Feast) |
 | **Orchestration** | Kubernetes (EKS, GKE), Docker, Argo Workflows |
 | **Infrastructure (IaC)** | Terraform, AWS CloudFormation, Ansible |
 | **CI/CD & GitOps** | ArgoCD, GitHub Actions, Jenkins |
@@ -60,7 +60,7 @@ Built a high-performance serving layer using **FastAPI** and **Docker**, optimiz
 ---
 
 ### 📊 Practical Experience Highlights
-- 🏗️ **Architected** multi-cloud ML infrastructure for 1000+ global retail locations.
+- 🏗️ **maintained** multi-cloud ML infrastructure for 1000+ global retail locations.
 - ⚙️ **Automated** production-grade pipelines reducing manual intervention by 90%.
 - 🚀 **Optimized** model inference latency by 30% through advanced containerization.
 ---
@@ -70,4 +70,4 @@ Built a high-performance serving layer using **FastAPI** and **Docker**, optimiz
 - **Email:** [alaisonebnnyonline@gmail.com](mailto:alaisonebnnyonline@gmail.com)
 
 ---
-*"Turning complex ML models into scalable production-grade services."*
+*"Turning complex models into scalable production-grade services."*
