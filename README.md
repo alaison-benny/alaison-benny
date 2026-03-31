@@ -2,6 +2,7 @@
 ### DevOps Engineer
 
 DevOps Engineer with 4 years of experience designing and managing production-grade cloud platforms for global enterprise clients including Woolworths, Nike, and Kone. I specialize in Kubernetes (EKS), Terraform, Helm, GitOps (ArgoCD), CI/CD automation, and full-stack observability to deliver scalable, resilient, and automated systems.
+
 ---
 
 ### 🌐 Ecosystem & Tools (Core Expertise)
@@ -27,6 +28,7 @@ Monitoring & Observability: Prometheus, Grafana, ELK Stack
 Event-Driven Workflows: Argo Workflows, Argo Events
 Programming & Scripting: Python, Bash
 Agile & DevOps Practices: Scrum Master, Agile Delivery, Release Management
+
 ---
 
 ### 🛠️ Tech Stack & Tools
