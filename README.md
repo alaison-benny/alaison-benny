@@ -8,7 +8,6 @@ DevOps Engineer with 4 years of experience designing and managing production-gra
 ### 🌐 Ecosystem & Tools (Core Expertise)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20Kubeflow-blueviolet?style=for-the-badge&logo=probot" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Infrastructure-Terraform%20%7C%20Ansible-623CE4?style=for-the-badge&logo=terraform" />
   <br>
